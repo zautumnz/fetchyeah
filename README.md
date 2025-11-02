@@ -2,8 +2,6 @@
 
 Tiny JSON fetch wrapper library. ~1.7kb gzipped.
 
-[![npm version](https://img.shields.io/npm/v/fetchyeah.svg)](https://npm.im/fetchyeah) [![ko-fi](https://img.shields.io/badge/donate-KoFi-yellow.svg)](https://ko-fi.com/zacanger)
-
 ----
 
 `fetchyeah` is a small fetch wrapper library that always parses JSON and returns

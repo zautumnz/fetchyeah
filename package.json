@@ -2,11 +2,7 @@
   "name": "fetchyeah",
   "description": "Miniscule JSON fetch wrapper library.",
   "version": "5.1.0",
-  "author": "Zac Anger (https://zacanger.com)",
-  "funding": {
-    "type": "ko-fi",
-    "url": "https://ko-fi.com/zacanger"
-  },
+  "author": "zautumnz",
   "license": "MIT",
   "main": "lib/index.cjs.js",
   "module": "lib/index.js",
@@ -24,12 +20,12 @@
     "test:lint": "ts-standard src/*.ts --fix",
     "test:ts": "tsc --noEmit"
   },
-  "homepage": "https://github.com/zacanger/fetchyeah#readme",
+  "homepage": "https://github.com/zautumnz/fetchyeah#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zacanger/fetchyeah.git"
+    "url": "git+https://github.com/zautumnz/fetchyeah.git"
   },
-  "bugs": "https://github.com/zacanger/fetchyeah/issues",
+  "bugs": "https://github.com/zautumnz/fetchyeah/issues",
   "keywords": [
     "browser",
     "fetch",
